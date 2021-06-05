@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yashas-psy
+- 👀 I’m interested in python,javascript,c++,java.
+- 🌱 I’m currently learning sqlite3
